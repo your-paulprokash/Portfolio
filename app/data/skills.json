@@ -6,25 +6,25 @@
         { "name": "Shorts", "level": 90 },
         { "name": "MediumFrom", "level": 80 },
         { "name": "longFrom", "level": 75 },
-        { "name": "Trailer", "level": 85 }
+        { "name": "Gaming", "level": 85 }
       ]
     },
     {
-      "name": "Frontend Development",
+      "name": "Minecraft Server Development",
       "skills": [
-        { "name": "HTML", "level": 95 },
-        { "name": "CSS", "level": 90 },
-        { "name": "JavaScript", "level": 85 },
-        { "name": "Next.js", "level": 95 }
+        { "name": "SMP", "level": 95 },
+        { "name": "Survival", "level": 90 },
+        { "name": "Lifesteal", "level": 85 },
+        { "name": "Full Network", "level": 95 }
       ]
     },
     {
-      "name": "Backend Development",
+      "name": "Discord Bot Development",
       "skills": [
-        { "name": "Python", "level": 90 },
-        { "name": "Java", "level": 85 },
-        { "name": "PHP", "level": 80 },
-        { "name": "C#", "level": 75 }
+        { "name": "Music", "level": 90 },
+        { "name": "Game", "level": 85 },
+        { "name": "Assistent", "level": 80 },
+        { "name": "Security", "level": 75 }
       ]
     }
   ]
