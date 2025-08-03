@@ -14,7 +14,7 @@ const page = () => {
                     <h1 className="text-4xl bg-clip-text font-bold text-transparent bg-gradient-to-r from-emerald-400 via-sky-300 to-blue-500">About Me</h1>
 
                     <div className="space-y-4 text-neutral-200 text-pretty tracking-tight">
-                        <p>Hi, Im Prokash, a Video Editor and a Gamer specializing in Shorts, Mediumform Videos, Longform Videos, Trailers. With 3 years of experience, I create videos for my clients using my Video Editing skills.</p>
+                        <p>Hi, Im Prokash, a Video Editor and a Gamer specializing in Shorts, Mediumform Videos, Longform Videos, Gaming Videos. With 3 years of experience, I create videos for my clients using my Video Editing skills.</p>
                         <p>Im passionate about making new projects, learning new skills, and I love my work. Check out my portfolio to see my work, and feel free to get in touch!</p>
                     </div>
                     <div className="space-y-4">
