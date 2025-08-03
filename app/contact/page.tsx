@@ -30,7 +30,7 @@ const page = () => {
                             <MdMail className="w-5 h-5 text-emerald-400"/>
                             <div>
                                 <h3 className="font-medium">Email</h3>
-                                <a href="" className="text-neutral-500 hover:text-emerald-400 transition-colors">paulprokash97@gmail.com</a>
+                                <a href="mailto:paulprokash97@gmail.com" className="text-neutral-500 hover:text-emerald-400 transition-colors">paulprokash97@gmail.com</a>
                             </div>
                             </div>
 
@@ -38,7 +38,7 @@ const page = () => {
                             <MdPhone className="w-5 h-5 text-emerald-400"/>
                             <div>
                                 <h3 className="font-medium">Phone</h3>
-                                <a href="" className="text-neutral-500 hover:text-emerald-400 transition-colors">+880 1234-567891</a>
+                                <a href="callto:+8801234567891" className="text-neutral-500 hover:text-emerald-400 transition-colors">+880 1234-567891</a>
                             </div>
                             </div>
 
