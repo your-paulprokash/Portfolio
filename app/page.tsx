@@ -34,7 +34,7 @@ export default function Home() {
           <h1 className="text-4xl">Paul Prokash</h1>
           <h3 className="text-xl font-bold mt-2 bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 via-sky-300 to-blue-500">Video Editor</h3>
           <p className="text-pretty tracking-tight mt-3 text-neutral-300">
-            Hello, it's Prokash. Im a Senior Video Editor with 3+
+            Hello, its Prokash. Im a Senior Video Editor with 3+
             years of experience, currently working on my own projects.{" "}
             <Link href="/contact" className="bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 via-sky-300 to-blue-500 font-bold opacity-90 hover:opacity-100 trasition-opacity">Contact Me {" "}</Link>
             for freelance any time.
